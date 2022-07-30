@@ -189,4 +189,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   baseSpeed: 10
+  climbSpeed: 7
   jumpSpeed: 15
